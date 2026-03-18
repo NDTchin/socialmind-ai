@@ -1,0 +1,24 @@
+# === Dữ liệu nhạy cảm ===
+data/accounts.csv
+data/posts.csv
+data/contents.csv
+data/comments.csv
+data/groups.csv
+
+# === Ảnh ===
+data/images/
+data/temp_images/
+
+# === Python cache ===
+__pycache__/
+*.pyc
+*.pyo
+
+# === IDE / Type checker ===
+.pyre_configuration
+.vscode/
+.idea/
+
+# === Hệ thống ===
+*.log
+.env
